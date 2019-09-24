@@ -30,7 +30,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
             android:text="S A N"
-            android:textColor="#ffffff"
+            android:textColor="#ffffffff"
             android:textSize="25dp"
             android:textStyle="bold" />
 
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="스마트 출석 체크"
-            android:textColor="#ffffff"
+            android:textColor="#ffffffff"
             android:textSize="18dp"
             android:textStyle="bold" />
 
@@ -56,8 +56,8 @@
             android:hint="학번"
             android:layout_gravity="center"
             android:padding="10dp"
-            android:textColor="#ffffff"
-            android:textColorHint="ffffff"
+            android:textColor="#ffffffff"
+            android:textColorHint="#ffffffff"
             android:id="@+id/idText"
             android:drawableStart="@drawable/ic_person_black_24dp"
             android:drawableLeft="@drawable/ic_person_black_24dp"
@@ -71,8 +71,8 @@
         android:hint="비밀번호"
         android:layout_gravity="center"
         android:padding="10dp"
-        android:textColor="#ffffff"
-        android:textColorHint="#ffffff"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff"
         android:id="@+id/passwordText"
         android:drawableStart="@drawable/ic_lock_black_24dp"
         android:drawableLeft="@drawable/ic_lock_black_24dp"
@@ -84,7 +84,7 @@
         android:layout_height="wrap_content"
         android:textSize="20dp"
         android:textStyle="bold"
-        android:textColor="#ffffff"
+        android:textColor="#ffffffff"
         android:background="@color/colorPrimaryDark"
         android:text="로그인"
         android:layout_marginTop="10dp"
